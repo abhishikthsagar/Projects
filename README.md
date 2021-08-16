@@ -1,5 +1,5 @@
 # Repository of personal projects
----
+
 ### Satillite to Google maps Image translation using GANs
 [Image translation](https://github.com/abhishikthsagar/Projects/tree/main/Image_translation_GAN)
 
