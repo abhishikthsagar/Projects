@@ -88,7 +88,11 @@ Using the model to translate Google Maps images to satillite images can be achei
 Using the Pix2Pix GAN model to translate images led to some truly impressive results. We managed to attain higly accurate fake images from the source data. This model can easily repurposed for various image translation tasks.
 
 #### References
+
 (1) https://arxiv.org/abs/1611.07004
+
 (2) https://phillipi.github.io/pix2pix/
+
 (3) https://affinelayer.com/pixsrv/
+
 (4) http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/
