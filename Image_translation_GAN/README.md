@@ -19,7 +19,7 @@ Google Maps has different views, for the same location, which can be switched on
 
 ### Data
 
-The dataset we will be using is the "**maps**" dataset used in the Pix2Pix paper. This dataset consist of 1097 training images and 1099 validation images. These images are of the New York city. The dataset can be downloaded from [here](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz).
+The dataset we will be using is the "**maps**" dataset used in the Pix2Pix paper. This dataset consist of 1097 training images and 1099 validation images. These images are of New York city. The dataset can be downloaded from [here](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz).
 
 The images are in JPEG format with a shape of 1200X600 pixels. Each image contains the satillite image on the left and the Maps image on the right.
 
